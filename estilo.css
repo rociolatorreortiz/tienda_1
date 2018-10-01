@@ -1,0 +1,23 @@
+.fondo{
+
+    background-color: coral
+
+
+}
+
+.imagen{
+
+    display:block;
+    margin:auto;
+}
+
+.p{
+
+    font-family: 'Chicle', cursive;
+}
+
+.ppagina{
+
+    text-align: end
+
+}
